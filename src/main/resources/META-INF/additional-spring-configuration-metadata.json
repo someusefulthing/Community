@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "communtiy.path.domain",
+      "type": "java.lang.String",
+      "description": "Description for communtiy.path.domain."
+  }
+] }
